@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mujoco model="spirob_961acb">
+  <compiler angle="degree" meshdir="." autolimits="true"/>
+  <asset>
+    <mesh name="vis_0.707_-_Part_1" file="60 degrees/0.707 - Part 1.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_0" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_0.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_1" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_1.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_2" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_2.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_3" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_3.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_4" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_4.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_5" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_5.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_6" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_6.stl"/>
+    <mesh name="col_0.707_-_Part_1_part_7" file="60 degrees/0.707 - Part 1_collision/0.707 - Part 1_part_7.stl"/>
+    <mesh name="vis_0.794_-_Part_1" file="60 degrees/0.794 - Part 1.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_0" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_0.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_1" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_1.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_2" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_2.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_3" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_3.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_4" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_4.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_5" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_5.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_6" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_6.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_7" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_7.stl"/>
+    <mesh name="col_0.794_-_Part_1_part_8" file="60 degrees/0.794 - Part 1_collision/0.794 - Part 1_part_8.stl"/>
+    <mesh name="vis_0.891_-_Part_1" file="60 degrees/0.891 - Part 1.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_0" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_0.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_1" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_1.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_2" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_2.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_3" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_3.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_4" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_4.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_5" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_5.stl"/>
+    <mesh name="col_0.891_-_Part_1_part_6" file="60 degrees/0.891 - Part 1_collision/0.891 - Part 1_part_6.stl"/>
+    <mesh name="vis_1_inch_-_Part_1" file="60 degrees/1 inch - Part 1.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_0" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_0.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_1" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_1.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_2" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_2.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_3" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_3.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_4" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_4.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_5" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_5.stl"/>
+    <mesh name="col_1_inch_-_Part_1_part_6" file="60 degrees/1 inch - Part 1_collision/1 inch - Part 1_part_6.stl"/>
+    <mesh name="vis_1.122_-_Part_1" file="60 degrees/1.122 - Part 1.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_0" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_0.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_1" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_1.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_2" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_2.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_3" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_3.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_4" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_4.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_5" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_5.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_6" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_6.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_7" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_7.stl"/>
+    <mesh name="col_1.122_-_Part_1_part_8" file="60 degrees/1.122 - Part 1_collision/1.122 - Part 1_part_8.stl"/>
+    <mesh name="vis_1.258_-_Part_1" file="60 degrees/1.258 - Part 1.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_0" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_0.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_1" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_1.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_2" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_2.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_3" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_3.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_4" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_4.stl"/>
+    <mesh name="col_1.258_-_Part_1_part_5" file="60 degrees/1.258 - Part 1_collision/1.258 - Part 1_part_5.stl"/>
+    <mesh name="vis_1.412_-_Part_1" file="60 degrees/1.412 - Part 1.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_0" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_0.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_1" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_1.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_2" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_2.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_3" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_3.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_4" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_4.stl"/>
+    <mesh name="col_1.412_-_Part_1_part_5" file="60 degrees/1.412 - Part 1_collision/1.412 - Part 1_part_5.stl"/>
+    <mesh name="vis_1.585_-_Part_1" file="60 degrees/1.585 - Part 1.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_0" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_0.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_1" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_1.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_2" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_2.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_3" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_3.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_4" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_4.stl"/>
+    <mesh name="col_1.585_-_Part_1_part_5" file="60 degrees/1.585 - Part 1_collision/1.585 - Part 1_part_5.stl"/>
+    <mesh name="vis_1.780_-_Part_1" file="60 degrees/1.780 - Part 1.stl"/>
+    <mesh name="col_1.780_-_Part_1_part_0" file="60 degrees/1.780 - Part 1_collision/1.780 - Part 1_part_0.stl"/>
+    <mesh name="col_1.780_-_Part_1_part_1" file="60 degrees/1.780 - Part 1_collision/1.780 - Part 1_part_1.stl"/>
+    <mesh name="col_1.780_-_Part_1_part_2" file="60 degrees/1.780 - Part 1_collision/1.780 - Part 1_part_2.stl"/>
+    <mesh name="vis_1.998_-_Part_1" file="60 degrees/1.998 - Part 1.stl"/>
+    <mesh name="col_1.998_-_Part_1_part_0" file="60 degrees/1.998 - Part 1_collision/1.998 - Part 1_part_0.stl"/>
+    <mesh name="col_1.998_-_Part_1_part_1" file="60 degrees/1.998 - Part 1_collision/1.998 - Part 1_part_1.stl"/>
+  </asset>
+  <worldbody>
+    <body name="link_0" pos="0 0 0.000000">
+      <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+      <geom type="mesh" mesh="vis_0.707_-_Part_1" class="vis" name="g_vis_0"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_0" class="col" name="g_col_0_0"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_1" class="col" name="g_col_0_1"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_2" class="col" name="g_col_0_2"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_3" class="col" name="g_col_0_3"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_4" class="col" name="g_col_0_4"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_5" class="col" name="g_col_0_5"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_6" class="col" name="g_col_0_6"/>
+      <geom type="mesh" mesh="col_0.707_-_Part_1_part_7" class="col" name="g_col_0_7"/>
+      <joint name="hinge_0" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+      <site name="s_0_L" pos="0.01 0.005 0"/>
+      <site name="s_0_R" pos="-0.01 0.005 0"/>
+      <body name="link_1" pos="0 0 6.516056">
+        <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+        <geom type="mesh" mesh="vis_0.794_-_Part_1" class="vis" name="g_vis_1"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_0" class="col" name="g_col_1_0"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_1" class="col" name="g_col_1_1"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_2" class="col" name="g_col_1_2"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_3" class="col" name="g_col_1_3"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_4" class="col" name="g_col_1_4"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_5" class="col" name="g_col_1_5"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_6" class="col" name="g_col_1_6"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_7" class="col" name="g_col_1_7"/>
+        <geom type="mesh" mesh="col_0.794_-_Part_1_part_8" class="col" name="g_col_1_8"/>
+        <joint name="hinge_1" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+        <site name="s_1_L" pos="0.01 0.005 0"/>
+        <site name="s_1_R" pos="-0.01 0.005 0"/>
+        <body name="link_2" pos="0 0 13.834932">
+          <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+          <geom type="mesh" mesh="vis_0.891_-_Part_1" class="vis" name="g_vis_2"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_0" class="col" name="g_col_2_0"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_1" class="col" name="g_col_2_1"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_2" class="col" name="g_col_2_2"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_3" class="col" name="g_col_2_3"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_4" class="col" name="g_col_2_4"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_5" class="col" name="g_col_2_5"/>
+          <geom type="mesh" mesh="col_0.891_-_Part_1_part_6" class="col" name="g_col_2_6"/>
+          <joint name="hinge_2" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+          <site name="s_2_L" pos="0.01 0.005 0"/>
+          <site name="s_2_R" pos="-0.01 0.005 0"/>
+          <body name="link_3" pos="0 0 22.048903">
+            <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+            <geom type="mesh" mesh="vis_1_inch_-_Part_1" class="vis" name="g_vis_3"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_0" class="col" name="g_col_3_0"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_1" class="col" name="g_col_3_1"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_2" class="col" name="g_col_3_2"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_3" class="col" name="g_col_3_3"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_4" class="col" name="g_col_3_4"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_5" class="col" name="g_col_3_5"/>
+            <geom type="mesh" mesh="col_1_inch_-_Part_1_part_6" class="col" name="g_col_3_6"/>
+            <joint name="hinge_3" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+            <site name="s_3_L" pos="0.01 0.005 0"/>
+            <site name="s_3_R" pos="-0.01 0.005 0"/>
+            <body name="link_4" pos="0 0 31.871555">
+              <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+              <geom type="mesh" mesh="vis_1.122_-_Part_1" class="vis" name="g_vis_4"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_0" class="col" name="g_col_4_0"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_1" class="col" name="g_col_4_1"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_2" class="col" name="g_col_4_2"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_3" class="col" name="g_col_4_3"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_4" class="col" name="g_col_4_4"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_5" class="col" name="g_col_4_5"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_6" class="col" name="g_col_4_6"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_7" class="col" name="g_col_4_7"/>
+              <geom type="mesh" mesh="col_1.122_-_Part_1_part_8" class="col" name="g_col_4_8"/>
+              <joint name="hinge_4" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+              <site name="s_4_L" pos="0.01 0.005 0"/>
+              <site name="s_4_R" pos="-0.01 0.005 0"/>
+              <body name="link_5" pos="0 0 42.217149">
+                <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+                <geom type="mesh" mesh="vis_1.258_-_Part_1" class="vis" name="g_vis_5"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_0" class="col" name="g_col_5_0"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_1" class="col" name="g_col_5_1"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_2" class="col" name="g_col_5_2"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_3" class="col" name="g_col_5_3"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_4" class="col" name="g_col_5_4"/>
+                <geom type="mesh" mesh="col_1.258_-_Part_1_part_5" class="col" name="g_col_5_5"/>
+                <joint name="hinge_5" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+                <site name="s_5_L" pos="0.01 0.005 0"/>
+                <site name="s_5_R" pos="-0.01 0.005 0"/>
+                <body name="link_6" pos="0 0 53.817725">
+                  <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+                  <geom type="mesh" mesh="vis_1.412_-_Part_1" class="vis" name="g_vis_6"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_0" class="col" name="g_col_6_0"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_1" class="col" name="g_col_6_1"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_2" class="col" name="g_col_6_2"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_3" class="col" name="g_col_6_3"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_4" class="col" name="g_col_6_4"/>
+                  <geom type="mesh" mesh="col_1.412_-_Part_1_part_5" class="col" name="g_col_6_5"/>
+                  <joint name="hinge_6" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+                  <site name="s_6_L" pos="0.01 0.005 0"/>
+                  <site name="s_6_R" pos="-0.01 0.005 0"/>
+                  <body name="link_7" pos="0 0 66.839382">
+                    <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+                    <geom type="mesh" mesh="vis_1.585_-_Part_1" class="vis" name="g_vis_7"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_0" class="col" name="g_col_7_0"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_1" class="col" name="g_col_7_1"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_2" class="col" name="g_col_7_2"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_3" class="col" name="g_col_7_3"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_4" class="col" name="g_col_7_4"/>
+                    <geom type="mesh" mesh="col_1.585_-_Part_1_part_5" class="col" name="g_col_7_5"/>
+                    <joint name="hinge_7" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+                    <site name="s_7_L" pos="0.01 0.005 0"/>
+                    <site name="s_7_R" pos="-0.01 0.005 0"/>
+                    <body name="link_8" pos="0 0 82.412965">
+                      <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+                      <geom type="mesh" mesh="vis_1.780_-_Part_1" class="vis" name="g_vis_8"/>
+                      <geom type="mesh" mesh="col_1.780_-_Part_1_part_0" class="col" name="g_col_8_0"/>
+                      <geom type="mesh" mesh="col_1.780_-_Part_1_part_1" class="col" name="g_col_8_1"/>
+                      <geom type="mesh" mesh="col_1.780_-_Part_1_part_2" class="col" name="g_col_8_2"/>
+                      <joint name="hinge_8" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+                      <site name="s_8_L" pos="0.01 0.005 0"/>
+                      <site name="s_8_R" pos="-0.01 0.005 0"/>
+                      <body name="link_9" pos="0 0 99.903523">
+                        <inertial mass="0.03" diaginertia="2e-05 2e-05 2e-05" pos="0 0 0"/>
+                        <geom type="mesh" mesh="vis_1.998_-_Part_1" class="vis" name="g_vis_9"/>
+                        <geom type="mesh" mesh="col_1.998_-_Part_1_part_0" class="col" name="g_col_9_0"/>
+                        <geom type="mesh" mesh="col_1.998_-_Part_1_part_1" class="col" name="g_col_9_1"/>
+                        <joint name="hinge_9" type="hinge" axis="0 1 0" stiffness="25.0" damping="0.2" range="-60 60"/>
+                        <site name="s_9_L" pos="0.01 0.005 0"/>
+                        <site name="s_9_R" pos="-0.01 0.005 0"/>
+                      </body>
+                    </body>
+                  </body>
+                </body>
+              </body>
+            </body>
+          </body>
+        </body>
+      </body>
+    </body>
+    <body name="reels" pos="0 0.04 0">
+      <inertial mass="0.02" diaginertia="1e-05 1e-05 1e-05" pos="0 0 0"/>
+      <joint name="reel_L" axis="0 0 1" type="hinge"/>
+      <joint name="reel_R" axis="0 0 1" type="hinge"/>
+    </body>
+  </worldbody>
+  <default>
+    <default class="vis">
+      <geom contype="0" conaffinity="0" rgba="1.0 0.41 0.7 1" type="mesh" group="1"/>
+    </default>
+    <default class="col">
+      <geom contype="1" conaffinity="1" density="1000" friction="0.500 0.500" rgba="0.5 0.6 0.7 0.5"/>
+    </default>
+  </default>
+  <tendon>
+    <spatial name="t_l" stiffness="2000.0" damping="5.0">
+      <site site="s_0_L"/>
+      <site site="s_1_L"/>
+      <site site="s_2_L"/>
+      <site site="s_3_L"/>
+      <site site="s_4_L"/>
+      <site site="s_5_L"/>
+      <site site="s_6_L"/>
+      <site site="s_7_L"/>
+      <site site="s_8_L"/>
+      <site site="s_9_L"/>
+    </spatial>
+    <spatial name="t_r" stiffness="2000.0" damping="5.0">
+      <site site="s_0_R"/>
+      <site site="s_1_R"/>
+      <site site="s_2_R"/>
+      <site site="s_3_R"/>
+      <site site="s_4_R"/>
+      <site site="s_5_R"/>
+      <site site="s_6_R"/>
+      <site site="s_7_R"/>
+      <site site="s_8_R"/>
+      <site site="s_9_R"/>
+    </spatial>
+  </tendon>
+  <actuator>
+    <motor joint="reel_L" name="servo_l" gear="0.07539822368615504" ctrllimited="true" ctrlrange="-5.0 5.0" forcelimited="true" forcerange="0 3.5"/>
+    <motor joint="reel_R" name="servo_r" gear="0.07539822368615504" ctrllimited="true" ctrlrange="-5.0 5.0" forcelimited="true" forcerange="0 3.5"/>
+  </actuator>
+</mujoco>
